@@ -22,8 +22,7 @@ Link to the privacy policy of third-party service providers used by the app
 
 **Location Data**
 
-We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using the Application, to provide location-based
-services. If you wish to change our access or permissions, you may do so in your device’s settings.
+We may may collect real-time information about the location of your device, either continuously or while you are using the Application, for geo-fencing, mileage tracking or similar purposes. If you do not want us to collect this information, you may decline our request or disable location services in your mobile device’s settings. However, opting out of the collection of location information will cause location-based features to be disabled and the online and/or mobile application may not function properly.
 
 **Log Data**
 
